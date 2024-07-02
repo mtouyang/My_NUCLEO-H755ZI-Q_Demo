@@ -1,0 +1,6 @@
+.metadata/.ide.log*
+.metadata/.log
+.metadata/version.ini
+.metadata/.plugins/*
+.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+
